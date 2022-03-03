@@ -10,3 +10,6 @@ Requirements:
 
 4) To run\
 "#python3 grabSRC.py <domain.tld>"
+  
+5) Example\
+  "#python3 grabSRC.py example.com
