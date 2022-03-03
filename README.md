@@ -12,4 +12,4 @@ Requirements:
 "#python3 grabSRC.py <domain.tld>"
   
 5) Example\
-  "#python3 grabSRC.py example.com
+  "#python3 grabSRC.py example.com"
