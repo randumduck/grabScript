@@ -1,5 +1,5 @@
-# grabURL
-python3 script to grab endpoints URL from any website.
+# grabSRC
+python3 script to grab <script src> area from any website
 
 Requirements: 
 1) linux
